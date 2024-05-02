@@ -24,7 +24,7 @@
     <li>
         <h3>Smart Home Automation System</h3>
         <p>Description: Developed firmware for a smart home system using ESP32 microcontroller and Alexa Voice command for Automating home Appliance's.</p>
-        <p>Technologies: <img src="https://img.shields.io/badge/C/C++-intermediate-blue" alt="C/C++">, <img src="https://img.shields.io/badge/FreeRTOS-intermediate-blue" alt="FreeRTOS">, <img src="https://img.shields.io/badge/ESP--IDF-Expert-blue" alt="ESP-IDF">, Amazon Alexa</p>
+        <p>Technologies: <img src="https://img.shields.io/badge/C/C++-intermediate-blue" alt="C/C++">, <img src="https://img.shields.io/badge/FreeRTOS-intermediate-blue" alt="FreeRTOS">, <img src="https://img.shields.io/badge/ESP--IDF-Expert-blue" alt="ESP-IDF">
         <p><a href="#">Repository Link</a></p>
     </li>
     <li>
@@ -44,9 +44,9 @@
 <h2>Skills 🛠️</h2>
 <ul>
     <li><img src="https://img.shields.io/badge/C%2FC++-Expert-blue" alt="C/C++"> C/C++</li>
-    <li><img src="https://img.shields.io/badge/Assembly%20Language-Advanced-yellow" alt="Assembly Language"> Assembly Language (ARM, AVR)</li>
+    <li><img src="https://img.shields.io/badge/Assembly%20Language-intermediate-yellow" alt="Assembly Language"> Assembly Language (ARM, AVR)</li>
     <li><img src="https://img.shields.io/badge/Real--time%20Operating%20Systems-Expert-green" alt="Real-time Operating Systems"> Real-time Operating Systems (FreeRTOS, RTX, uC/OS)</li>
-    <li><img src="https://img.shields.io/badge/Microcontroller%20Programming-Expert-brightgreen" alt="Microcontroller Programming"> Microcontroller Programming (Arduino, STM32, ESP32)</li>
+    <li><img src="https://img.shields.io/badge/Microcontroller%20Programming-Expert-brightgreen" alt="Microcontroller Programming"> Microcontroller Programming (Arduino, STM32, ESP32,RP2040)</li>
     <li><img src="https://img.shields.io/badge/Communication%20Protocols-Advanced-yellow" alt="Communication Protocols"> Communication Protocols (SPI, I2C, UART, CAN, MQTT)</li>
     <li><img src="https://img.shields.io/badge/Embedded%20Linux-Intermediate-orange" alt="Embedded Linux"> Embedded Linux (Raspberry Pi, BeagleBone)</li>
     <li><img src="https://img.shields.io/badge/PCB%20Design-Intermediate-orange" alt="PCB Design"> PCB Design (KiCad, Eagle)</li>
