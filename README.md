@@ -13,7 +13,7 @@
 
 <h2>About Me ℹ️</h2>
 <ul>
-    <li><strong>Name:</strong>Saviour Dagadu[</li>
+    <li><strong>Name:</strong>Saviour Dagadu</li>
     <li><strong>Location:</strong> Ghana</li>
     <li><strong>Occupation:</strong> Embedded Systems Developer</li>
     <li><strong>Interests:</strong> Microcontroller programming, Real-time operating systems, IoT devices, Robotics</li>
