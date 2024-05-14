@@ -1,5 +1,5 @@
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 5px; margin-bottom: 20px;">
-    <h2 style="text-align: center; font-size: 18px;">Welcome to Saviour Dagadu's my world of Embedded Systems! 👨‍💻🚀</h2>
+    <h2 style="text-align: center; font-size: 18px;">Welcome to my world of Embedded Systems! 👨‍💻🚀</h2>
     <div style="display: flex; justify-content: center;">
         <div style="margin-right: 10px;">
             <img src="https://img.shields.io/badge/Embedded-Systems-orange" alt="Embedded Systems">
