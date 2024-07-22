@@ -2,16 +2,15 @@
 
 ![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-orange)
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-Expert-brightgreen)
-![PCB Design](https://img.shields.io/badge/PCB-Design-Expert-brightgreen)
 
-Hey there! Welcome to my GitHub profile. I'm passionate about all things related to embedded systems, from designing efficient firmware to optimizing hardware-software interaction. Here, you'll find a collection of my projects, experiments, and contributions in the field of embedded systems.
+I'm passionate about all things related to embedded systems, from developing efficient firmware to optimizing hardware-software interaction. Here, you'll find a collection of my projects, experiments, and contributions in the field of embedded systems.
 
 ## About Me ℹ️
 
 - **Name:** Saviour Dagadu
 - **Location:** Ghana
 - **Occupation:** Embedded Systems Developer | Hardware Designer | Electrical Engineer
-- **Interests:** Microcontroller programming, Real-time operating systems, IoT devices, Robotics, Machine Learning at the Edge
+- **Interests:** Microcontroller programming, Real-time operating systems, IoT devices, Robotics, Machine Learning on the Edge
 
 ## Projects 🛠️
 
@@ -36,7 +35,7 @@ Hey there! Welcome to my GitHub profile. I'm passionate about all things related
 - ![Communication Protocols](https://img.shields.io/badge/Communication%20Protocols-intermediate-yellow) Communication Protocols (SPI, I2C, UART, CAN, MQTT, NODE RED)
 - ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-Intermediate-orange) Embedded Linux (Raspberry Pi)
 - ![PCB Design](https://img.shields.io/badge/PCB%20Design-Intermediate-orange) PCB Design (KiCad, Eagle)
-- ![Firmware Development](https://img.shields.io/badge/Firmware%20Development-intermediate-yellow) Firmware Development
+- ![Firmware Development](https://img.shields.io/badge/Firmware%20Development-intermediate-yellow) Firmware Development Environment - PowerIO,VsCode,CodeBlock,Expressif IDE, STM32 Cube IDE, Arduino IDE, Thonny.
 
 ## Connect with Me 🌐
 
