@@ -33,7 +33,7 @@
         <p>Build a user-friendly web application that enables remote monitoring of all elements and utilizes AI capabilities to identify crop diseases at an early stage, providing insights for prevention and control through to the optimization of growing conditions.</p>
         <p>Technologies: C/C++, Arduino Cloud API, ESP32 <img src="https://img.shields.io/badge/ArduinoCloud-Advance-green" alt="Cloud">,
             <img src="https://img.shields.io/badge/ESP32-Advanced-green" alt="ESP32">, <img src="https://img.shields.io/badge/C/C++-Intermediate-green" alt="C/C++"></p>
-        <p><a href="#">https://github.com/kondasMajid/TheFarmKing</a></p>
+        <p><a href="#">"https://github.com/kondasMajid/TheFarmKing"</a></p>
          <p><a href="#">https://farmking.netlify.app/</a></p>
     </li>
 </ol>
