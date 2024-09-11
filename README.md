@@ -35,7 +35,7 @@ I'm passionate about all things related to embedded systems, from developing eff
 - ![Communication Protocols](https://img.shields.io/badge/Communication%20Protocols-intermediate-yellow) Communication Protocols (SPI, I2C, UART, CAN, MQTT, NODE RED)
 - ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-Intermediate-orange) Embedded Linux (Raspberry Pi)
 - ![PCB Design](https://img.shields.io/badge/PCB%20Design-Intermediate-orange) PCB Design (KiCad, Eagle)
-- ![Firmware Development](https://img.shields.io/badge/Firmware%20Development-intermediate-yellow) Firmware Development Environment - PowerIO,VsCode,CodeBlock,Expressif IDE, STM32 Cube IDE, Arduino IDE, Thonny.
+- ![Firmware Development](https://img.shields.io/badge/Firmware%20Development-intermediate-yellow) Firmware Development Environment - PowerISO,VsCode,CodeBlock,Expressif IDE, STM32 Cube IDE, Arduino IDE, Thonny.
 
 ## Connect with Me 🌐
 
