@@ -9,7 +9,7 @@ I'm passionate about all things related to embedded systems, from developing eff
 
 - **Name:** Saviour Dagadu
 - **Location:** Ghana
-- **Occupation:** Embedded Systems Developer | PCB Designer | STEAM Advocate
+- **Occupation:** Embedded Hardware Developer | First/FLL Robotics Instructor
 - **Interests:** Microcontroller programming, Real-time operating systems [RTOS], IoT devices, Robotics, Machine Learning on the Edge
 
 ## Projects 🛠️
