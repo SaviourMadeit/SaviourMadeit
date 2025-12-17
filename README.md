@@ -1,5 +1,3 @@
-Here's a reviewed and corrected version with improvements to formatting, grammar, and clarity:
-
 # Welcome to my World of Embedded Systems! 👨‍💻🚀
 
 ![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-orange)
