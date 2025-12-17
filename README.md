@@ -24,7 +24,7 @@ I'm passionate about all things related to embedded systems, from developing eff
    - **Features:** Built a user-friendly web application for remote monitoring and early-stage crop disease identification using AI capabilities, providing preventive insights and growing condition optimization.
    - **Technologies:** ![Arduino Cloud](https://img.shields.io/badge/Arduino_Cloud-Advanced-green) ![ESP32](https://img.shields.io/badge/ESP32-Advanced-green) ![C/C++](https://img.shields.io/badge/C/C++-Intermediate-green)
    - **GitHub:** [TheFarmKing Repository](https://github.com/kondasMajid/TheFarmKing)
-   - **Website:** [FarmKing](https://farmking.netlify.app/)
+   - **Website:** [FarmKing](https://farmking.tech/)
 
 ## Skills 🛠️
 
