@@ -1,6 +1,6 @@
 # Hi There 👋
 
-**Embedded Systems Engineer | Transitioning into IC Design | Robotics Instructor**
+**Embedded Systems Engineer | Robotics Instructor**
 
 I design and build embedded hardware solutions with a passion for low-level programming and hardware-software integration. Here, you'll find a collection of personal and featured projects, experiments, and contributions in the embedded systems field.
 
